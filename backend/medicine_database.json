@@ -1,0 +1,896 @@
+ {
+    "Acretin 0.05% cream": {
+        "purpose": "Topical treatment for skin conditions, likely acne or psoriasis",
+        "dosage": "Apply thin layer to affected area once daily",
+        "side_effects": "Skin irritation, redness, dryness, peeling",
+        "precautions": "Avoid sunlight, do not use on broken skin"
+    },
+    "Adol 500 mg caplets": {
+        "purpose": "Pain relief and fever reduction",
+        "dosage": "1-2 caplets every 4-6 hours as needed",
+        "side_effects": "Nausea, stomach pain, liver damage with overdose",
+        "precautions": "Do not exceed 8 caplets in 24 hours"
+    },
+    "Aggrex 75 mg tablets": {
+        "purpose": "Blood thinner to prevent heart attacks and strokes",
+        "dosage": "1 tablet daily",
+        "side_effects": "Bleeding, bruising, stomach pain",
+        "precautions": "Take with food, report any unusual bleeding"
+    },
+    "Airoplast 5 cm Tape": {
+        "purpose": "Medical tape for wound dressing",
+        "dosage": "Apply as needed to secure dressings",
+        "side_effects": "Skin irritation, allergic reactions",
+        "precautions": "Do not apply to sensitive or broken skin"
+    },
+    "All-Vent 125 ml syrup": {
+        "purpose": "Asthma and respiratory condition treatment",
+        "dosage": "10 ml every 8 hours",
+        "side_effects": "Nervousness, tremor, headache",
+        "precautions": "Monitor breathing, avoid overdose"
+    },
+    "Alphintern 30 tablets": {
+        "purpose": "Treatment of infections",
+        "dosage": "1 tablet twice daily",
+        "side_effects": "Diarrhea, nausea, allergic reactions",
+        "precautions": "Complete full course, take with plenty of water"
+    },
+    "Ambezim-G 30 tablets": {
+        "purpose": "Digestive enzyme supplement",
+        "dosage": "1 tablet with meals",
+        "side_effects": "Stomach discomfort, diarrhea",
+        "precautions": "Take with food, do not chew tablets"
+    },
+    "Amrizole 500 mg tablets": {
+        "purpose": "Anti-infective medication",
+        "dosage": "1 tablet twice daily",
+        "side_effects": "Nausea, vomiting, metallic taste",
+        "precautions": "Avoid alcohol during treatment"
+    },
+    "Antopral 40 mg tablets": {
+        "purpose": "Acid reflux and ulcer treatment",
+        "dosage": "1 tablet daily before breakfast",
+        "side_effects": "Headache, diarrhea, nausea",
+        "precautions": "Take on empty stomach"
+    },
+    "Anuva 50 mg tablets": {
+        "purpose": "Pain management",
+        "dosage": "1 tablet every 8 hours as needed",
+        "side_effects": "Dizziness, drowsiness, constipation",
+        "precautions": "Avoid driving, no alcohol"
+    },
+    "Apidone syrup": {
+        "purpose": "Cough and cold relief",
+        "dosage": "5-10 ml every 6-8 hours",
+        "side_effects": "Drowsiness, dry mouth",
+        "precautions": "Avoid operating machinery"
+    },
+    "Asmakast 10 mg tablets": {
+        "purpose": "Asthma prevention and treatment",
+        "dosage": "1 tablet daily",
+        "side_effects": "Headache, nausea, respiratory infections",
+        "precautions": "Take regularly for best effect"
+    },
+    "Atoreza 10/10 mg tablets": {
+        "purpose": "Cholesterol management",
+        "dosage": "1 tablet daily",
+        "side_effects": "Muscle pain, liver problems, headache",
+        "precautions": "Regular liver function tests needed"
+    },
+    "Augmentin 1 g tablets": {
+        "purpose": "Broad-spectrum antibiotic",
+        "dosage": "1 tablet twice daily",
+        "side_effects": "Diarrhea, nausea, yeast infections",
+        "precautions": "Take with food, complete full course"
+    },
+    "Avosoya 300 mg capsules": {
+        "purpose": "Nutritional supplement",
+        "dosage": "1 capsule daily",
+        "side_effects": "Mild stomach upset",
+        "precautions": "Take with meals"
+    },
+    "B.B.C. 25 ml spray solution": {
+        "purpose": "Topical antiseptic",
+        "dosage": "Spray on affected area 2-3 times daily",
+        "side_effects": "Local irritation",
+        "precautions": "Avoid contact with eyes"
+    },
+    "Benogen 10 sachets": {
+        "purpose": "Nutritional supplement",
+        "dosage": "1 sachet daily mixed with water",
+        "side_effects": "Mild digestive discomfort",
+        "precautions": "Mix well before consumption"
+    },
+    "Betaderm 30 gm cream": {
+        "purpose": "Topical corticosteroid for skin inflammation",
+        "dosage": "Apply thin layer twice daily",
+        "side_effects": "Skin thinning, burning sensation",
+        "precautions": "Do not use on face long-term"
+    },
+    "Betadine 120 ml solution": {
+        "purpose": "Antiseptic for wounds and skin disinfection",
+        "dosage": "Apply to affected area as needed",
+        "side_effects": "Skin irritation, allergic reactions",
+        "precautions": "Do not use on deep wounds"
+    },
+    "Betadine 10% 60 g ointment": {
+        "purpose": "Antiseptic ointment for minor wounds",
+        "dosage": "Apply to affected area 2-3 times daily",
+        "side_effects": "Local irritation",
+        "precautions": "For external use only"
+    },
+    "Betadine 120 ml mouth wash": {
+        "purpose": "Oral antiseptic for mouth infections",
+        "dosage": "15 ml undiluted for 30 seconds twice daily",
+        "side_effects": "Temporary tooth staining, taste alteration",
+        "precautions": "Do not swallow"
+    },
+    "Bivatracin 150 ml spray": {
+        "purpose": "Antibiotic spray for skin infections",
+        "dosage": "Spray on affected area 2-3 times daily",
+        "side_effects": "Local irritation, itching",
+        "precautions": "Avoid contact with eyes"
+    },
+    "Bronchicum Elixir 100 ml": {
+        "purpose": "Cough relief and expectorant",
+        "dosage": "5 ml every 6 hours",
+        "side_effects": "Drowsiness, stomach upset",
+        "precautions": "Avoid alcohol, may cause drowsiness"
+    },
+    "Bronchopro 100 ml syrup": {
+        "purpose": "Bronchial asthma and cough treatment",
+        "dosage": "10 ml twice daily",
+        "side_effects": "Nervousness, palpitations",
+        "precautions": "Monitor breathing patterns"
+    },
+    "Brufen 400 mg tablets": {
+        "purpose": "Anti-inflammatory pain relief",
+        "dosage": "1 tablet every 6-8 hours with food",
+        "side_effects": "Stomach pain, nausea, dizziness",
+        "precautions": "Take with food, avoid alcohol"
+    },
+    "Brufen 100 mg/5 ml syrup": {
+        "purpose": "Pain and fever relief for children",
+        "dosage": "As directed by physician based on weight",
+        "side_effects": "Stomach upset, allergic reactions",
+        "precautions": "Shake well before use"
+    },
+    "C Zinc 30 capsules": {
+        "purpose": "Vitamin C and Zinc supplement",
+        "dosage": "1 capsule daily",
+        "side_effects": "Nausea, stomach cramps",
+        "precautions": "Take with food"
+    },
+    "Candalkan Plus 16/12.5 mg tablets": {
+        "purpose": "Blood pressure management",
+        "dosage": "1 tablet daily",
+        "side_effects": "Dizziness, cough, headache",
+        "precautions": "Monitor blood pressure regularly"
+    },
+    "Carbamide 30 g cream": {
+        "purpose": "Moisturizer for dry skin conditions",
+        "dosage": "Apply to affected area twice daily",
+        "side_effects": "Mild irritation",
+        "precautions": "For external use only"
+    },
+    "Catafast 50 mg sachets": {
+        "purpose": "Fast-acting pain relief",
+        "dosage": "1 sachet dissolved in water every 8 hours",
+        "side_effects": "Stomach discomfort, dizziness",
+        "precautions": "Take with food"
+    },
+    "Cataflam 50 mg tablets": {
+        "purpose": "Anti-inflammatory pain relief",
+        "dosage": "1 tablet 2-3 times daily with food",
+        "side_effects": "Stomach pain, nausea, headache",
+        "precautions": "Take with meals to reduce stomach upset"
+    },
+    "Ceftriaxone 1000 mg Vial": {
+        "purpose": "Broad-spectrum antibiotic injection",
+        "dosage": "As directed by healthcare professional",
+        "side_effects": "Injection site pain, diarrhea, allergic reactions",
+        "precautions": "Administered by healthcare professional only"
+    },
+    "Celebrex 200 mg capsules": {
+        "purpose": "Arthritis pain and inflammation relief",
+        "dosage": "1 capsule twice daily",
+        "side_effects": "Stomach pain, dizziness, swelling",
+        "precautions": "Take with food, monitor for bleeding"
+    },
+    "Cemicresto 10 mg tablets": {
+        "purpose": "Cholesterol management",
+        "dosage": "1 tablet daily in evening",
+        "side_effects": "Headache, muscle pain, constipation",
+        "precautions": "Regular liver function tests needed"
+    },
+    "Cetal 250 mg/5 ml oral suspension": {
+        "purpose": "Antibiotic for bacterial infections",
+        "dosage": "As directed by physician based on weight",
+        "side_effects": "Diarrhea, nausea, allergic reactions",
+        "precautions": "Shake well, complete full course"
+    },
+    "Cetal Sinus 20 capsules": {
+        "purpose": "Sinus relief and decongestant",
+        "dosage": "1 capsule every 12 hours",
+        "side_effects": "Drowsiness, dry mouth, dizziness",
+        "precautions": "Avoid alcohol, may cause drowsiness"
+    },
+    "Cholerese 10 mg tablets": {
+        "purpose": "Cholesterol reduction",
+        "dosage": "1 tablet daily",
+        "side_effects": "Constipation, stomach pain, headache",
+        "precautions": "Take in evening for best effect"
+    },
+    "Choletimb 10 mg tablets": {
+        "purpose": "Cholesterol management",
+        "dosage": "1 tablet daily",
+        "side_effects": "Muscle pain, liver enzyme changes",
+        "precautions": "Avoid grapefruit juice"
+    },
+    "Ciprodiazole 20 tablets": {
+        "purpose": "Anti-infective combination",
+        "dosage": "1 tablet twice daily",
+        "side_effects": "Nausea, headache, metallic taste",
+        "precautions": "Take with plenty of water"
+    },
+    "Ciprofar 500 mg tablets": {
+        "purpose": "Broad-spectrum antibiotic",
+        "dosage": "1 tablet twice daily",
+        "side_effects": "Nausea, diarrhea, tendon inflammation",
+        "precautions": "Avoid sunlight, drink plenty of fluids"
+    },
+    "Ciprofloxacin Tablets USP 39 500 mg": {
+        "purpose": "Treatment of bacterial infections",
+        "dosage": "1 tablet twice daily",
+        "side_effects": "Diarrhea, nausea, dizziness",
+        "precautions": "Complete full course, avoid dairy products"
+    },
+    "Clarinase 14 repetabs": {
+        "purpose": "Allergy and nasal congestion relief",
+        "dosage": "1 tablet twice daily",
+        "side_effects": "Drowsiness, dry mouth, headache",
+        "precautions": "Avoid alcohol, may cause drowsiness"
+    },
+    "Claritine 20 tablets": {
+        "purpose": "Antihistamine for allergy relief",
+        "dosage": "1 tablet daily",
+        "side_effects": "Headache, fatigue, dry mouth",
+        "precautions": "Non-drowsy formula"
+    },
+    "Clindasol 1% 20 g gel": {
+        "purpose": "Topical antibiotic for acne",
+        "dosage": "Apply thin layer to affected area twice daily",
+        "side_effects": "Skin dryness, peeling, irritation",
+        "precautions": "Avoid contact with eyes and mouth"
+    },
+    "Comfort Massage Gel 50 gm": {
+        "purpose": "Pain relief gel for muscular aches",
+        "dosage": "Apply to affected area and massage 3-4 times daily",
+        "side_effects": "Skin irritation, redness",
+        "precautions": "For external use only"
+    },
+    "Congestal 20 tablets": {
+        "purpose": "Cold and congestion relief",
+        "dosage": "1 tablet every 6 hours",
+        "side_effects": "Drowsiness, dry mouth",
+        "precautions": "Avoid operating machinery"
+    },
+    "Conta-flu 20 tablets": {
+        "purpose": "Flu symptom relief",
+        "dosage": "1 tablet every 6 hours",
+        "side_effects": "Drowsiness, nausea, dizziness",
+        "precautions": "Do not exceed recommended dosage"
+    },
+    "Corasore 25 oral drops": {
+        "purpose": "Heart condition treatment",
+        "dosage": "As directed by physician",
+        "side_effects": "Headache, dizziness, flushing",
+        "precautions": "Use under medical supervision"
+    },
+    "C-Retard 500 mg capsules": {
+        "purpose": "Vitamin C supplement",
+        "dosage": "1 capsule daily",
+        "side_effects": "Stomach upset, diarrhea",
+        "precautions": "Take with food"
+    },
+    "C-vit 15 ml oral drops": {
+        "purpose": "Vitamin C supplement for children",
+        "dosage": "As directed by physician",
+        "side_effects": "Mild stomach upset",
+        "precautions": "Use dropper provided"
+    },
+    "Daflon 500 mg tablets": {
+        "purpose": "Venous circulation improvement",
+        "dosage": "2 tablets daily with meals",
+        "side_effects": "Stomach discomfort, headache",
+        "precautions": "Take with food"
+    },
+    "Daktarin 40 g oral gel": {
+        "purpose": "Antifungal for oral thrush",
+        "dosage": "Apply to affected area 4 times daily after food",
+        "side_effects": "Mild taste disturbance",
+        "precautions": "Hold in mouth before swallowing"
+    },
+    "Dalacin C 300 mg capsules": {
+        "purpose": "Antibiotic for bacterial infections",
+        "dosage": "1 capsule 4 times daily",
+        "side_effects": "Diarrhea, stomach pain, nausea",
+        "precautions": "Take with full glass of water"
+    },
+    "Davalindi 1000 IU tablets": {
+        "purpose": "Vitamin D supplement",
+        "dosage": "1 tablet daily",
+        "side_effects": "Nausea, constipation",
+        "precautions": "Take with food for better absorption"
+    },
+    "Dentinox colic drops": {
+        "purpose": "Infant colic relief",
+        "dosage": "As directed by pediatrician",
+        "side_effects": "Mild allergic reactions",
+        "precautions": "Shake well before use"
+    },
+    "Diclac 5% 30 gm gel": {
+        "purpose": "Topical anti-inflammatory for pain relief",
+        "dosage": "Apply to affected area 3-4 times daily",
+        "side_effects": "Skin irritation, rash",
+        "precautions": "Do not apply to broken skin"
+    },
+    "Diclac 75 ID 75 mg tablets": {
+        "purpose": "Anti-inflammatory pain relief",
+        "dosage": "1 tablet daily",
+        "side_effects": "Stomach pain, nausea, dizziness",
+        "precautions": "Take with food"
+    },
+    "Diflucan 50 mg capsules": {
+        "purpose": "Antifungal treatment",
+        "dosage": "1 capsule daily for 7-14 days",
+        "side_effects": "Headache, nausea, abdominal pain",
+        "precautions": "Complete full course"
+    },
+    "Diflucan 150 mg capsule": {
+        "purpose": "Single-dose antifungal treatment",
+        "dosage": "1 capsule as single dose",
+        "side_effects": "Headache, nausea, dizziness",
+        "precautions": "Take with plenty of water"
+    },
+    "Ectomethrin 5% 50 ml emulsion": {
+        "purpose": "Scabies and lice treatment",
+        "dosage": "Apply to whole body, wash off after 8-12 hours",
+        "side_effects": "Skin irritation, itching",
+        "precautions": "Avoid contact with eyes"
+    },
+    "Enrich 30 ml oral drops": {
+        "purpose": "Nutritional supplement for infants",
+        "dosage": "As directed by pediatrician",
+        "side_effects": "Mild digestive discomfort",
+        "precautions": "Shake well before use"
+    },
+    "Enrich 100 ml syrup": {
+        "purpose": "Nutritional supplement",
+        "dosage": "10-15 ml daily",
+        "side_effects": "Mild stomach upset",
+        "precautions": "Store in cool place"
+    },
+    "Ezamol-C 20 tablets": {
+        "purpose": "Pain and fever relief with Vitamin C",
+        "dosage": "1-2 tablets every 6 hours",
+        "side_effects": "Nausea, stomach pain",
+        "precautions": "Do not exceed 8 tablets daily"
+    },
+    "Farcolin 120 ml syrup": {
+        "purpose": "Cough expectorant",
+        "dosage": "5-10 ml every 8 hours",
+        "side_effects": "Nausea, drowsiness",
+        "precautions": "Avoid alcohol"
+    },
+    "Fenistil 15 ml oral drops": {
+        "purpose": "Antihistamine for allergy relief",
+        "dosage": "As directed by physician based on age",
+        "side_effects": "Drowsiness, dry mouth",
+        "precautions": "May cause drowsiness"
+    },
+    "Feroglobin capsules": {
+        "purpose": "Iron supplement for anemia",
+        "dosage": "1 capsule daily",
+        "side_effects": "Constipation, dark stools, stomach upset",
+        "precautions": "Take with vitamin C for better absorption"
+    },
+    "Ferrofol 30 spansules": {
+        "purpose": "Iron and folic acid supplement",
+        "dosage": "1 spansule daily",
+        "side_effects": "Constipation, nausea, dark stools",
+        "precautions": "Take on empty stomach"
+    },
+    "Flagyl 500 mg tablets": {
+        "purpose": "Anti-infective for bacterial and parasitic infections",
+        "dosage": "1 tablet 3 times daily",
+        "side_effects": "Nausea, metallic taste, headache",
+        "precautions": "Avoid alcohol during treatment"
+    },
+    "Flector EP 25 gm gel": {
+        "purpose": "Topical anti-inflammatory for pain relief",
+        "dosage": "Apply to affected area twice daily",
+        "side_effects": "Skin irritation, rash",
+        "precautions": "Do not apply to broken skin"
+    },
+    "Flix 16 g nasal spray": {
+        "purpose": "Nasal allergy relief",
+        "dosage": "2 sprays in each nostril daily",
+        "side_effects": "Nasal irritation, headache",
+        "precautions": "Prime before first use"
+    },
+    "Floxabact 500 mg tablets": {
+        "purpose": "Antibiotic for bacterial infections",
+        "dosage": "1 tablet twice daily",
+        "side_effects": "Nausea, diarrhea, dizziness",
+        "precautions": "Avoid sunlight, complete full course"
+    },
+    "Flumox 500 capsules": {
+        "purpose": "Broad-spectrum antibiotic",
+        "dosage": "1 capsule 3 times daily",
+        "side_effects": "Diarrhea, nausea, skin rash",
+        "precautions": "Take with plenty of water"
+    },
+    "Flumox 1000 tablets": {
+        "purpose": "High-dose antibiotic for infections",
+        "dosage": "1 tablet twice daily",
+        "side_effects": "Diarrhea, nausea, allergic reactions",
+        "precautions": "Take with food"
+    },
+    "Foradil 12 mcg capsules": {
+        "purpose": "Bronchodilator for asthma",
+        "dosage": "1 capsule inhaled twice daily",
+        "side_effects": "Tremor, headache, palpitations",
+        "precautions": "Use inhaler device as directed"
+    },
+    "Free Nose 30 ml nasal spray": {
+        "purpose": "Nasal decongestant",
+        "dosage": "1-2 sprays in each nostril twice daily",
+        "side_effects": "Nasal dryness, rebound congestion",
+        "precautions": "Do not use for more than 7 days"
+    },
+    "Frost 100 ml spray": {
+        "purpose": "Cooling pain relief spray",
+        "dosage": "Spray on affected area 3-4 times daily",
+        "side_effects": "Skin irritation",
+        "precautions": "Avoid contact with eyes"
+    },
+    "Fucicort 15 g cream": {
+        "purpose": "Antibiotic and steroid combination for skin infections",
+        "dosage": "Apply to affected area 2-3 times daily",
+        "side_effects": "Skin thinning, burning sensation",
+        "precautions": "Do not use on face long-term"
+    },
+    "Fucidin 30 g cream": {
+        "purpose": "Antibiotic cream for skin infections",
+        "dosage": "Apply to affected area 3 times daily",
+        "side_effects": "Mild irritation, itching",
+        "precautions": "For external use only"
+    },
+    "Fucidin 20 g cream": {
+        "purpose": "Antibiotic cream for skin infections",
+        "dosage": "Apply to affected area 3 times daily",
+        "side_effects": "Mild irritation, itching",
+        "precautions": "For external use only"
+    },
+    "Fucidin 15 g cream": {
+        "purpose": "Antibiotic cream for skin infections",
+        "dosage": "Apply to affected area 3 times daily",
+        "side_effects": "Mild irritation, itching",
+        "precautions": "For external use only"
+    },
+    "Gabalepsy 300 mg capsules": {
+        "purpose": "Anti-epileptic and nerve pain medication",
+        "dosage": "1 capsule 3 times daily",
+        "side_effects": "Dizziness, drowsiness, weight gain",
+        "precautions": "Do not stop abruptly"
+    },
+    "Garamycin 15 g cream": {
+        "purpose": "Antibiotic cream for skin infections",
+        "dosage": "Apply to affected area 2-3 times daily",
+        "side_effects": "Skin irritation, itching",
+        "precautions": "For external use only"
+    },
+    "Gengigel hydrogel": {
+        "purpose": "Oral gel for gum inflammation",
+        "dosage": "Apply to gums 2-3 times daily",
+        "side_effects": "Mild taste disturbance",
+        "precautions": "Do not swallow large amounts"
+    },
+    "Glucophage 500 mg tablets": {
+        "purpose": "Diabetes management",
+        "dosage": "1 tablet 2-3 times daily with meals",
+        "side_effects": "Nausea, diarrhea, metallic taste",
+        "precautions": "Take with food to reduce stomach upset"
+    },
+    "GTN 50 ml cream": {
+        "purpose": "Angina pectoris treatment",
+        "dosage": "Apply 2 inches every 4 hours",
+        "side_effects": "Headache, dizziness, flushing",
+        "precautions": "Avoid contact with eyes"
+    },
+    "Haemostop 250 mg tablets": {
+        "purpose": "Bleeding control",
+        "dosage": "1 tablet 3 times daily",
+        "side_effects": "Nausea, stomach discomfort",
+        "precautions": "Take with food"
+    },
+    "Hemoclar 0.5% 40 g cream": {
+        "purpose": "Hemorrhoid treatment",
+        "dosage": "Apply to affected area 2-3 times daily",
+        "side_effects": "Local irritation, burning sensation",
+        "precautions": "For external use only"
+    },
+    "Hibiotic 1 gm tablets": {
+        "purpose": "Broad-spectrum antibiotic",
+        "dosage": "1 tablet twice daily",
+        "side_effects": "Diarrhea, nausea, allergic reactions",
+        "precautions": "Take with plenty of water"
+    },
+    "Histazine-1 10 mg tablets": {
+        "purpose": "Antihistamine for allergy relief",
+        "dosage": "1 tablet daily",
+        "side_effects": "Drowsiness, dry mouth, headache",
+        "precautions": "May cause drowsiness"
+    },
+    "ImmuGuard 14 sachets": {
+        "purpose": "Immune system support",
+        "dosage": "1 sachet daily mixed with water",
+        "side_effects": "Mild digestive discomfort",
+        "precautions": "Mix well before consumption"
+    },
+    "Ivypront 120 ml syrup": {
+        "purpose": "Cough and cold relief",
+        "dosage": "5-10 ml every 6-8 hours",
+        "side_effects": "Drowsiness, dry mouth",
+        "precautions": "Avoid operating machinery"
+    },
+    "Janumet 50 mg/1000 mg tablets": {
+        "purpose": "Diabetes management combination",
+        "dosage": "1 tablet twice daily with meals",
+        "side_effects": "Nausea, diarrhea, stomach pain",
+        "precautions": "Take with food"
+    },
+    "Jogel 20 gm oral gel": {
+        "purpose": "Oral pain and inflammation relief",
+        "dosage": "Apply to affected area 3-4 times daily",
+        "side_effects": "Mild taste disturbance",
+        "precautions": "Do not swallow large amounts"
+    },
+    "Jusprin 81 mg tablets": {
+        "purpose": "Blood thinner for heart protection",
+        "dosage": "1 tablet daily",
+        "side_effects": "Stomach irritation, bleeding",
+        "precautions": "Take with food"
+    },
+    "Lactulose 120 ml syrup": {
+        "purpose": "Constipation relief",
+        "dosage": "15-30 ml daily",
+        "side_effects": "Bloating, gas, stomach cramps",
+        "precautions": "Drink plenty of fluids"
+    },
+    "Lamifen 1% 15 gm cream": {
+        "purpose": "Antifungal cream",
+        "dosage": "Apply to affected area twice daily",
+        "side_effects": "Burning, itching, irritation",
+        "precautions": "Continue for 2 weeks after symptoms disappear"
+    },
+    "Lamisil 1% 15 g cream": {
+        "purpose": "Antifungal treatment",
+        "dosage": "Apply to affected area once daily",
+        "side_effects": "Burning, itching, redness",
+        "precautions": "Use for full treatment period"
+    },
+    "La-vie gel": {
+        "purpose": "Personal lubricant or topical gel",
+        "dosage": "Apply as needed",
+        "side_effects": "Mild irritation",
+        "precautions": "For external use only"
+    },
+    "Lovir 400 mg tablets": {
+        "purpose": "Antiviral medication",
+        "dosage": "1 tablet 3 times daily",
+        "side_effects": "Nausea, headache, dizziness",
+        "precautions": "Take with plenty of water"
+    },
+    "Mebo 30 mg ointment": {
+        "purpose": "Burn and wound healing",
+        "dosage": "Apply to affected area 2-3 times daily",
+        "side_effects": "Mild irritation",
+        "precautions": "For external use only"
+    },
+    "Megamox 625 mg tablets": {
+        "purpose": "Broad-spectrum antibiotic",
+        "dosage": "1 tablet 3 times daily",
+        "side_effects": "Diarrhea, nausea, skin rash",
+        "precautions": "Take with food"
+    },
+    "Micropore 7.5 cm Tape": {
+        "purpose": "Surgical tape for dressings",
+        "dosage": "Apply as needed",
+        "side_effects": "Skin irritation",
+        "precautions": "Do not apply to sensitive skin"
+    },
+    "Midodrine 2.5 mg tablets": {
+        "purpose": "Blood pressure regulation",
+        "dosage": "1 tablet 3 times daily",
+        "side_effects": "Goosebumps, itching, urinary retention",
+        "precautions": "Monitor blood pressure regularly"
+    },
+    "Miflonide 400 ug capsules": {
+        "purpose": "Asthma maintenance treatment",
+        "dosage": "1 capsule inhaled twice daily",
+        "side_effects": "Oral thrush, hoarseness, headache",
+        "precautions": "Rinse mouth after use"
+    },
+    "Milga 40 tablets": {
+        "purpose": "Nutritional supplement",
+        "dosage": "1 tablet daily",
+        "side_effects": "Mild stomach upset",
+        "precautions": "Take with food"
+    },
+    "Minalax 10 tablets": {
+        "purpose": "Laxative for constipation",
+        "dosage": "1-2 tablets at bedtime",
+        "side_effects": "Stomach cramps, diarrhea",
+        "precautions": "Drink plenty of water"
+    },
+    "Motilium 40 tablets": {
+        "purpose": "Nausea and vomiting treatment",
+        "dosage": "1 tablet 3-4 times daily",
+        "side_effects": "Headache, dry mouth, diarrhea",
+        "precautions": "Take 15-30 minutes before meals"
+    },
+    "Mucophylline 125 ml syrup": {
+        "purpose": "Asthma and bronchitis treatment",
+        "dosage": "10 ml every 8 hours",
+        "side_effects": "Nausea, headache, palpitations",
+        "precautions": "Do not take with other theophylline products"
+    },
+    "Mucosta 100 mg tablets": {
+        "purpose": "Gastric ulcer treatment",
+        "dosage": "1 tablet 3 times daily",
+        "side_effects": "Constipation, diarrhea, skin rash",
+        "precautions": "Take after meals"
+    },
+    "Multi-Relax 10 mg tablets": {
+        "purpose": "Muscle relaxant",
+        "dosage": "1 tablet 3 times daily",
+        "side_effects": "Drowsiness, dizziness, dry mouth",
+        "precautions": "Avoid driving and alcohol"
+    },
+    "Mupirax 2% 10 g ointment": {
+        "purpose": "Antibiotic ointment for skin infections",
+        "dosage": "Apply to affected area 2-3 times daily",
+        "side_effects": "Burning, itching, redness",
+        "precautions": "For external use only"
+    },
+    "Neurovit 30 tablets": {
+        "purpose": "Neuropathic pain treatment",
+        "dosage": "1 tablet 3 times daily",
+        "side_effects": "Dizziness, drowsiness, nausea",
+        "precautions": "Do not stop abruptly"
+    },
+    "Night & Day 10 tablets": {
+        "purpose": "Cold and flu relief (day and night formula)",
+        "dosage": "As directed on package",
+        "side_effects": "Drowsiness (night), nervousness (day)",
+        "precautions": "Follow day/night instructions carefully"
+    },
+    "Oracure 30 gm oral gel": {
+        "purpose": "Oral ulcer and inflammation treatment",
+        "dosage": "Apply to affected area 3-4 times daily",
+        "side_effects": "Mild stinging, taste disturbance",
+        "precautions": "Do not eat or drink for 30 minutes after application"
+    },
+    "Orex 60 ml solution": {
+        "purpose": "Appetite stimulant or oral care",
+        "dosage": "As directed by physician",
+        "side_effects": "Mild stomach upset",
+        "precautions": "Follow dosage instructions"
+    },
+    "Orovex Delicate 250 ml mouth wash": {
+        "purpose": "Gentle mouthwash for sensitive mouths",
+        "dosage": "15 ml for 30 seconds twice daily",
+        "side_effects": "Temporary taste alteration",
+        "precautions": "Do not swallow"
+    },
+    "Osteocare 120 ml liquid": {
+        "purpose": "Calcium and mineral supplement for bone health",
+        "dosage": "10 ml daily",
+        "side_effects": "Constipation, stomach upset",
+        "precautions": "Take with food"
+    },
+    "Pandermal 15 g cream": {
+        "purpose": "Topical skin treatment",
+        "dosage": "Apply to affected area twice daily",
+        "side_effects": "Skin irritation, redness",
+        "precautions": "For external use only"
+    },
+    "Panthenol 2% 20 g cream": {
+        "purpose": "Skin moisturizer and healing cream",
+        "dosage": "Apply to affected area 2-3 times daily",
+        "side_effects": "Mild irritation",
+        "precautions": "For external use only"
+    },
+    "Paramol 500 mg tablets": {
+        "purpose": "Pain relief",
+        "dosage": "1-2 tablets every 4-6 hours",
+        "side_effects": "Nausea, dizziness, constipation",
+        "precautions": "Do not exceed 8 tablets daily"
+    },
+    "Pedical syrup": {
+        "purpose": "Pediatric nutritional supplement",
+        "dosage": "As directed by pediatrician",
+        "side_effects": "Mild digestive discomfort",
+        "precautions": "Shake well before use"
+    },
+    "Pentamix 120 ml syrup": {
+        "purpose": "Cough and cold relief",
+        "dosage": "5-10 ml every 6-8 hours",
+        "side_effects": "Drowsiness, dry mouth",
+        "precautions": "Avoid operating machinery"
+    },
+    "Phenadone 100 ml syrup": {
+        "purpose": "Cough suppressant",
+        "dosage": "5 ml every 6-8 hours",
+        "side_effects": "Drowsiness, constipation, nausea",
+        "precautions": "Avoid alcohol"
+    },
+    "Picolax 15 ml oral drops": {
+        "purpose": "Laxative for bowel preparation",
+        "dosage": "As directed for procedure preparation",
+        "side_effects": "Abdominal cramps, nausea, diarrhea",
+        "precautions": "Follow specific preparation instructions"
+    },
+    "Predsol 50 ml syrup": {
+        "purpose": "Anti-inflammatory steroid",
+        "dosage": "As directed by physician",
+        "side_effects": "Increased appetite, mood changes, insomnia",
+        "precautions": "Do not stop abruptly"
+    },
+    "Pridocaine 15 g cream": {
+        "purpose": "Local anesthetic cream",
+        "dosage": "Apply to skin 1 hour before procedure",
+        "side_effects": "Skin redness, itching, burning",
+        "precautions": "For external use only"
+    },
+    "Primrose Plus 1000 mg capsules": {
+        "purpose": "Evening primrose oil supplement",
+        "dosage": "1 capsule daily",
+        "side_effects": "Mild stomach upset, headache",
+        "precautions": "Take with food"
+    },
+    "Prinorelax 30 mg capsules": {
+        "purpose": "Muscle relaxant",
+        "dosage": "1 capsule 3 times daily",
+        "side_effects": "Drowsiness, dizziness, dry mouth",
+        "precautions": "Avoid driving and alcohol"
+    },
+    "Remowax 15 ml ear drops": {
+        "purpose": "Ear wax removal",
+        "dosage": "3-5 drops twice daily for 3-4 days",
+        "side_effects": "Ear irritation, dizziness",
+        "precautions": "Do not use if eardrum is perforated"
+    },
+    "Rennie 96 chewable tablets": {
+        "purpose": "Antacid for heartburn and indigestion",
+        "dosage": "1-2 tablets as needed, up to 11 tablets daily",
+        "side_effects": "Diarrhea, constipation with overuse",
+        "precautions": "Do not exceed maximum daily dose"
+    },
+    "Reparil-Gel N 40 g gel": {
+        "purpose": "Topical anti-inflammatory for bruises and swelling",
+        "dosage": "Apply to affected area 3-4 times daily",
+        "side_effects": "Skin irritation, allergic reactions",
+        "precautions": "Do not apply to broken skin"
+    },
+    "Rheumatizen 60 g cream": {
+        "purpose": "Arthritis and joint pain relief",
+        "dosage": "Apply to affected joints 3-4 times daily",
+        "side_effects": "Skin irritation, burning sensation",
+        "precautions": "For external use only"
+    },
+    "Rhinopro 20 capsules": {
+        "purpose": "Sinus and nasal decongestant",
+        "dosage": "1 capsule every 12 hours",
+        "side_effects": "Drowsiness, dry mouth, headache",
+        "precautions": "Avoid alcohol"
+    },
+    "Salivex-L 10 ml paint": {
+        "purpose": "Oral treatment for mouth conditions",
+        "dosage": "Apply to affected area with brush 2-3 times daily",
+        "side_effects": "Local irritation, taste disturbance",
+        "precautions": "Do not swallow"
+    },
+    "Sediproct 20 g cream": {
+        "purpose": "Hemorrhoid treatment with anesthetic",
+        "dosage": "Apply to affected area 2-3 times daily",
+        "side_effects": "Local irritation, burning sensation",
+        "precautions": "For external use only"
+    },
+    "SelokenZOC 100 mg tablets": {
+        "purpose": "Blood pressure and heart condition treatment",
+        "dosage": "1 tablet daily",
+        "side_effects": "Fatigue, dizziness, cold hands/feet",
+        "precautions": "Do not stop abruptly"
+    },
+    "Solvadol 20 ml spray": {
+        "purpose": "Topical pain relief spray",
+        "dosage": "Spray on affected area 3-4 times daily",
+        "side_effects": "Skin irritation, redness",
+        "precautions": "Avoid contact with eyes"
+    },
+    "Steronate 20 tablets": {
+        "purpose": "Steroid medication for inflammation",
+        "dosage": "As directed by physician",
+        "side_effects": "Increased appetite, weight gain, mood changes",
+        "precautions": "Take with food, do not stop abruptly"
+    },
+    "Streptoquin 10 tablets": {
+        "purpose": "Muscle relaxant and pain relief",
+        "dosage": "1 tablet 3 times daily",
+        "side_effects": "Drowsiness, dizziness, dry mouth",
+        "precautions": "Avoid driving and alcohol"
+    },
+    "Tareg 40 mg tablets": {
+        "purpose": "Blood pressure management",
+        "dosage": "1 tablet daily",
+        "side_effects": "Dizziness, cough, headache",
+        "precautions": "Monitor blood pressure regularly"
+    },
+    "Tears Guard 15 ml eye drops": {
+        "purpose": "Lubricating eye drops for dry eyes",
+        "dosage": "1-2 drops in each eye as needed",
+        "side_effects": "Temporary blurring, mild stinging",
+        "precautions": "Do not touch dropper to eye"
+    },
+    "Tentavair 160 mcg oral inhalation": {
+        "purpose": "Asthma maintenance treatment",
+        "dosage": "1 inhalation twice daily",
+        "side_effects": "Headache, throat irritation, cough",
+        "precautions": "Rinse mouth after use"
+    },
+    "Vidrop 2800 I.U. 15 ml oral drops": {
+        "purpose": "High-dose Vitamin D supplement",
+        "dosage": "As directed by physician",
+        "side_effects": "Nausea, constipation, weakness",
+        "precautions": "Take as directed, do not overdose"
+    },
+    "Visceralgine 120 ml syrup": {
+        "purpose": "Abdominal pain and cramp relief",
+        "dosage": "10-15 ml 3 times daily",
+        "side_effects": "Drowsiness, dry mouth, blurred vision",
+        "precautions": "Avoid alcohol and driving"
+    },
+    "Vitacid C 1 g tablets": {
+        "purpose": "High-dose Vitamin C supplement",
+        "dosage": "1 tablet daily",
+        "side_effects": "Diarrhea, stomach cramps",
+        "precautions": "Take with plenty of water"
+    },
+    "Vitamax 15 capsules": {
+        "purpose": "Multivitamin supplement",
+        "dosage": "1 capsule daily",
+        "side_effects": "Mild stomach upset",
+        "precautions": "Take with food"
+    },
+    "Zantac 150 mg tablets": {
+        "purpose": "Acid reducer for heartburn and ulcers",
+        "dosage": "1 tablet twice daily",
+        "side_effects": "Headache, constipation, diarrhea",
+        "precautions": "Take 30-60 minutes before meals"
+    },
+    "Zenta 100 gm cream": {
+        "purpose": "Skin moisturizer and protective cream",
+        "dosage": "Apply to affected area 2-3 times daily",
+        "side_effects": "Mild irritation",
+        "precautions": "For external use only"
+    },
+    "Zyrtec 10 ml oral drops": {
+        "purpose": "Antihistamine for allergy relief in children",
+        "dosage": "As directed by pediatrician based on weight",
+        "side_effects": "Drowsiness, dry mouth, headache",
+        "precautions": "Use dropper provided"
+    }
+}
